@@ -1,2 +1,2 @@
 # BaixAqui
- site de música e de livros
+ site de música e de livros diversos
